@@ -1,4 +1,5 @@
-1.git add
+1.git init
+1.1.git add
 2.git commit -m'message'
 	2.1.git status
 	2.2.git diff
