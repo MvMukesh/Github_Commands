@@ -1,0 +1,8 @@
+1.git add
+2.git commit -m'message'
+	2.1.git status
+	2.2.git diff
+3.git branch -M renamePrimaryBranch(master and main branch)
+4.git remote add anyname repoLink
+5.git push anyname renamedPrimaryBranch
+6.git pull
